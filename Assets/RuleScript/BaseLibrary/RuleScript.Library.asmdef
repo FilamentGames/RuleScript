@@ -1,0 +1,16 @@
+{
+    "name": "RuleScript.Library",
+    "references": [
+        "RuleScript",
+        "BeauRoutine"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
